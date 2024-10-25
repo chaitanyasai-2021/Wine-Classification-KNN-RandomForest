@@ -1,6 +1,3 @@
-Here’s a well-structured README template for your Wine dataset analysis project. This format provides clarity, includes placeholders for images, and highlights key sections of your analysis.
-
----
 
 # Wine Dataset Classification and Analysis using K-Nearest Neighbors (KNN)
 
