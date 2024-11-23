@@ -1,5 +1,5 @@
 
-# Wine Dataset Classification and Analysis using K-Nearest Neighbors (KNN)
+# Wine Dataset Classification and Analysis using K-Nearest Neighbors (KNN) & Random Forest 
 
 This project focuses on classifying wine samples based on their chemical composition using the K-Nearest Neighbors (KNN) algorithm. We explore the dataset to understand feature distributions, evaluate data correlations, and implement data transformations for optimal model performance. This repository provides code, analysis, and insights gained from applying machine learning techniques to the Wine dataset.
 
