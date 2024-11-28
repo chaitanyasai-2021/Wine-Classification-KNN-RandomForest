@@ -88,16 +88,25 @@ This study confirms that feature separability, appropriate preprocessing, and hy
 
 ## Images and Visuals
 
-Add images here for better visualization:
-
+- ### Anova F-Value
+  ![Distribution Plot](visualizations/1.Anova.png)
+  
 - ### Distribution Analysis
-  ![Distribution Plot](path/to/distribution_plot.png)
+  ![Distribution Plot](visualizations/2.Normal.png)
 
 - ### Correlation Heatmap
-  ![Correlation Heatmap](path/to/correlation_heatmap.png)
+  ![Correlation Heatmap](visualizations/3.Check.png)
+  
+  - ### Feature Distribution 
+  ![Model Performance Chart](visualizations/4.Feature.png)
 
 - ### Model Performance
-  ![Model Performance Chart](path/to/model_performance_chart.png)
+  ![Model Performance Chart](visualizations/5.Normalized.png)
+  ![Model Performance Chart](visualizations/6.Standardized.png)
+
+  - ### Final Result
+  ![Model Performance Chart](visualizations/7.Final.png)
+
 
 ## Installation and Usage
 
